@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68240" started-at="2018-12-15T04:21:25Z" finished-at="2018-12-15T04:22:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68240" started-at="2018-12-15T04:21:25Z" finished-at="2018-12-15T04:22:33Z">
+      <class name="com.crm.a.testcases.ContactsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.a.testcases.ContactsPageTest@e2cbe0]" name="setUp" is-config="true" duration-ms="34931" started-at="2018-12-15T09:51:25Z" finished-at="2018-12-15T09:52:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="contactsPageLable()[pri:0, instance:com.crm.a.testcases.ContactsPageTest@e2cbe0]" name="contactsPageLable" duration-ms="1480" started-at="2018-12-15T09:52:00Z" finished-at="2018-12-15T09:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactsPageLable -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.a.testcases.ContactsPageTest@e2cbe0]" name="teardown" is-config="true" duration-ms="494" started-at="2018-12-15T09:52:01Z" finished-at="2018-12-15T09:52:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.a.testcases.ContactsPageTest@e2cbe0]" name="setUp" is-config="true" duration-ms="29432" started-at="2018-12-15T09:52:02Z" finished-at="2018-12-15T09:52:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectContactsTest()[pri:0, instance:com.crm.a.testcases.ContactsPageTest@e2cbe0]" name="selectContactsTest" duration-ms="1431" started-at="2018-12-15T09:52:31Z" finished-at="2018-12-15T09:52:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectContactsTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.a.testcases.ContactsPageTest@e2cbe0]" name="teardown" is-config="true" duration-ms="434" started-at="2018-12-15T09:52:33Z" finished-at="2018-12-15T09:52:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.a.testcases.ContactsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
