@@ -14,7 +14,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
 import com.crm.qa.util.TestUtil;
-
+//This is base class for all the classes
 public class TestBase {
 	
 	public static WebDriver driver;
